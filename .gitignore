@@ -1,0 +1,5 @@
+/playground
+/node_modules
+/public/uploads
+.vscode
+.env
